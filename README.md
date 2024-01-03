@@ -16,7 +16,8 @@ https://eskielsantana.github.io/idlegame/
 
 * This game was made on Unity3D and uses WebGL technology to run directly on the navigator.
 * Use Google Chrome as a preferable navigator.
-* Make sure the hardware acceleration is enabled on your navigator. Otherwise, the game will run slowly.
+* Make sure the hardware acceleration option is enabled on your navigator. Otherwise, the game will run slowly.
+![Google Chrome System configuration screen showing the hardware acceleration option](Screenshots/HardwareAcceleration.png)
 
 ## Screenshots
 ![Game at starting point](Screenshots/01.png)
